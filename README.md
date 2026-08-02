@@ -4,19 +4,32 @@
 This project analyzes Manchester United's 2025-26 Premier League season using real data sourced from FBref. The analysis covers player performance, shooting efficiency, goalkeeping reliability, match results, and opponent patterns, answering questions that fans and club stakeholders genuinely care about.
 
 ## Dataset
+
 **Source:** FBref.com/ Sports Reference LLC
+
 **Type:** Real match and player data
+
 **Tables Used:** player stats, shooting, fixtures, goalkeeping
 
+
 ## SQL Skills Demonstrated 
+
 -SELECT
--WHERE 
--GROUP BY 
+
+-WHERE
+
+-GROUP BY
+
 -ORDER BY 
+
 -Aggregate Functions (SUM, AVG, COUNT)
+
 -ROUND
+
 -LIMIT 
+
 -JOIN
+
 -Window Functions (RANK)
 
 ## Business Questions & Insights
